@@ -48,7 +48,7 @@ This project is a self-contained home automation system using:
 
 ## IV. System Architecture
 
-`diagram.png`
+![diagram](https://github.com/user-attachments/assets/06e05d09-bcff-4b12-aaef-5dea4c9b3e75)
 
 - ESP devices send sensor data via MQTT
 - Home Assistant listens and triggers responses
